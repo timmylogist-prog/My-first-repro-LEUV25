@@ -5,3 +5,4 @@ Author Logist T.
 
 City: Holsbeek
 
+Postal Code: 3220
